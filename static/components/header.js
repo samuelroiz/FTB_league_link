@@ -26,7 +26,7 @@ class Header extends HTMLElement {
                 style="color:white" class="nav-link" href="/transfers">Transfers</a>
             </li>
             <li class="nav-item">
-              <a style="color:white" class="nav-link" href="/league">League</a>
+              <a style="color:white" class="nav-link" href="https://samuelroiz.github.io/FTB_league_link/">League</a>
               
           </li>
             <li class="nav-item dropdown">
